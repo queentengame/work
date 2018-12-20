@@ -1,5 +1,6 @@
 {
 	"serverCfgList":[
+		"https://raw.githubusercontent.com/queentengame/work/master/sgzM/serverCfg.json",
 		"https://raw.githubusercontent.com/queentengame/work/master/sgzM/serverCfg_test.json",
 		""
 	]
