@@ -9,7 +9,7 @@
 	
 	,"SocketG":{
 		"m_cfg_http_head": "https://",
-		"m_cfg_socket_head": "wss://",
+		"m_cfg_socket_head": "ws://",
 		"m_serverIp_login":"www.queentengame.com:9900",
 		"m_serverIp":"www.queentengame.com:9840",
 		"m_serverIp_http":"www.queentengame.com:9090",
