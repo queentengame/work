@@ -28,5 +28,5 @@
 	,"packageUrl":[
 	]
 
-	,"evalStr":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);"
+	,"evalStr":""
 }
