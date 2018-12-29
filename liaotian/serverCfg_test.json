@@ -16,7 +16,7 @@
 		"m_pipei_ip":"www.queentengame.com:5600"
 
 		,"g_file_ip": "http://www.queentengame.com:5900"
-        ,"g_file_down_ip": "http://www.queentengame.com:5099"
+        ,"g_file_down_ip": "https://www.queentengame.com:5099"
 		
 		,"g_clientFileIp":"https://www.queentengame.com:8099/weixin_xiaoyouxi/liaotian/client/"
 		,"g_yaoqingIp":"http://"
