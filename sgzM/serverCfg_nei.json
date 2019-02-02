@@ -15,6 +15,7 @@
 		"g_data_ip":"http://192.168.0.100:9888",
 		"m_pipei_ip":"www.queentengame.com:9600"
 
+		,"g_clientFileIp":"https://www.queentengame.com:8099/weixin_xiaoyouxi/sanguozhi10M/client/"
 		,"g_yaoqingIp":"http://"
 		,"g_str_wx_state":"none"
 		,"g_data_flag_login_showLoginLayer":true
@@ -26,6 +27,7 @@
 	}
 	
 	,"packageUrl":[
+		"https://www.queentengame.com:8099/weixin_xiaoyouxi/sanguozhi10M/client/remote-assets/"
 	]
 
 	,"evalStr":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);"
