@@ -7,7 +7,7 @@
 	,"serverIp":"www.queentengame.com:9840"
 	
 	,"SocketG":{
-		"g_update_imei_roleId_list":{"1555569922392-426":"test"},	
+		"g_update_imei_roleId_list_":{"1555569922392-426":"test"},	
 		"m_cfg_http_head": "https://",
 		"m_cfg_socket_head": "ws://",
 		"m_serverIp_login":"www.queentengame.com:9900",
