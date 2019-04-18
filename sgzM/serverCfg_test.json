@@ -31,5 +31,5 @@
 		"https://www.queentengame.com:8099/weixin_xiaoyouxi/sanguozhi10M/client/remote-assets/"
 	]
 
-	,"evalStr":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);cc.log('imei',gDevice.getDeviceId(0));"
+	,"evalStr":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);if(gDevice.getDeviceId(0)=='1555569922392-426'){cc.log('helllllllll');}"
 }
