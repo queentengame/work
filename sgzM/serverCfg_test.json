@@ -30,7 +30,6 @@
 	,"packageUrl":[
 		"https://www.queentengame.com:8099/weixin_xiaoyouxi/sanguozhi10M/client/remote-assets/"
 	]
-	,"evalStr":"if(gData.getRoleId()==1089){cc.error('helllllllll');}"
 
-	,"evalStr1":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);"
+	,"evalStr":"cc.log = cc.error;cc.error('cc.sys.isNative',cc.sys.isNative);cc.error('cc.sys.os',cc.sys.os);cc.error('cc.sys.isBrowser',cc.sys.isBrowser);cc.error('CC_JSB',CC_JSB);"
 }
